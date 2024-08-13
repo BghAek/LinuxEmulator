@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "klqMVuoNeF2uFsiohHenk6jamAJaPK4Qeit8aMThIp4=",
+  "Source": "LinuxTerminalApp",
+  "BasePath": "_content/LinuxTerminalApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LinuxTerminalApp\\wwwroot",
+      "Source": "LinuxTerminalApp",
+      "ContentRoot": "D:\\C#\\LinuxTerminalApp\\LinuxTerminalApp\\wwwroot\\",
+      "BasePath": "_content/LinuxTerminalApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\C#\\LinuxTerminalApp\\LinuxTerminalApp\\wwwroot\\script.js",
+      "SourceId": "LinuxTerminalApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\LinuxTerminalApp\\LinuxTerminalApp\\wwwroot\\",
+      "BasePath": "_content/LinuxTerminalApp",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "D:\\C#\\LinuxTerminalApp\\LinuxTerminalApp\\wwwroot\\styles.css",
+      "SourceId": "LinuxTerminalApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\LinuxTerminalApp\\LinuxTerminalApp\\wwwroot\\",
+      "BasePath": "_content/LinuxTerminalApp",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}

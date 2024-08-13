@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wRJ9pUmIDbrPC2G2CbZMz5gfC7nnYvEJzNSy258tnF7WBAoFgg1VzLHN/cq7vlGRzmZ5dnctV29rCaRWuYaJdA==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\LinuxTerminalApp\\LinuxTerminalApp\\LinuxTerminalApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kadi\\.nuget\\packages\\ssh.net\\2024.1.0\\ssh.net.2024.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
